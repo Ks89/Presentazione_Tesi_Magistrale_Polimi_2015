@@ -1,2 +1,5 @@
-# Presentazione_Tesi_Magistrale_Polimi_2015
+# Presentazione della Tesi di Laurea Magistrale
 Presentazione in Apple Keynote della Tesi di Laurea Magistrale
+
+
+
